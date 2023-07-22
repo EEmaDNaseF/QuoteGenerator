@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+}
+h1 {
+    color: #E8E6E3;
+    font-size: 80px;
+    font-weight: 700;
+    text-align: center;
+}
+p {
+    color: #E8E6E3;
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+}
+button {
+    padding: 40px 100px;
+    background-color: blue;
+    color: white;
+    display: block;
+    margin: auto;
+}
+button:active ,
+button:hover {
+    background-color: green;
+}
